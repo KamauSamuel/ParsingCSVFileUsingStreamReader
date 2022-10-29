@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3/cFOv7jzLQuEXL5VUPHF92+0Yr9MkxYRit+5FSbVUUXNIkYW6whqJOiTRfY239oVZeo5CPQRHrji5B8Czlzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samuel\\source\\repos\\Zamara\\ReadExcelListAddtoValuelistItems\\ReadExcelListAddtoValuelistItems\\ReadExcelListAddtoValuelistItems.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samuel\\.nuget\\packages\\syncfusion.compression.base\\20.3.0.52\\syncfusion.compression.base.20.3.0.52.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\syncfusion.licensing\\20.3.0.52\\syncfusion.licensing.20.3.0.52.nupkg.sha512",
+    "C:\\Users\\Samuel\\.nuget\\packages\\syncfusion.xlsio.winforms\\20.3.0.52\\syncfusion.xlsio.winforms.20.3.0.52.nupkg.sha512"
+  ],
+  "logs": []
+}
